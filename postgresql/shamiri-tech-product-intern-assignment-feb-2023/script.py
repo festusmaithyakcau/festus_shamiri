@@ -23,7 +23,7 @@ import psycopg2
 hostname = 'localhost'
 database = 'postgres'
 username = 'postgres'
-pwd = 'Adonis21072003@'
+pwd = '###########'
 port_id = 5432
 mycursor = None
 myconnection = None
